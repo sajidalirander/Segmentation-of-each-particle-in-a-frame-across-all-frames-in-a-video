@@ -1,4 +1,4 @@
-# Segmentation of each particle in a frame across all frames in a video
+# Segmentation-of-each-particle-in-a-frame-across-all-frames-in-a-video
 - The script will read the video file and split each frame.
 - Create a binary mask of all the particle by global threshold that is computed using OTSU's method.
 - Compute the shape measurment (area) and pixel measurement (mean intensity) of each particle in a frame.
