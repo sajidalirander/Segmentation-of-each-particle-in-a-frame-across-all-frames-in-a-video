@@ -21,3 +21,6 @@
    -- Give the complete path of the video file at line 37
 - Output 
    -- Area and mean intensity of each particle in a frame across the video length.
+
+
+The file can also be downloaded from MATLAB File exchange [![View Segmentation of each particle in a frame on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/112435-segmentation-of-each-particle-in-a-frame)
