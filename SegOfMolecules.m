@@ -34,7 +34,7 @@ fontSize = 16; % Font size of any text used in the figure
 
 %% Load the video and read it frame by frame
 % Provide the full file path to videoFileName
-videoFileName = 'E:\DrVadhin\Recent_May27,2022_E_FRET\Merged-aligned-001.avi.mp4'; % change this
+videoFileName = '...\Recent_May27,2022_E_FRET\Merged-aligned-001.avi.mp4'; % change this
 
 % Read the movie file from the given path
 video = VideoReader(videoFileName);
